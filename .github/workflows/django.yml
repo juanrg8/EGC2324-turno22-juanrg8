@@ -44,5 +44,3 @@ jobs:
       run: |
         cd decide
         python manage.py test --keepdb
-
-
