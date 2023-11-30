@@ -1,8 +1,9 @@
 name: Python application
 
-on: push
-  branches: 
-    - egc_test
+on: 
+  push:
+    branches: 
+      - egc_test
   
 
 jobs:
